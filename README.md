@@ -51,4 +51,6 @@
 
 Enjoy!
 
-
+# Other Resources:
+- https://pages.github.com/
+- https://youtu.be/o5g-lUuFgpg
