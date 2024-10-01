@@ -45,9 +45,10 @@
 
 # How to Make a Github & Github Pages
 1. Register on Github
-2. Create a Repository; Be sure to add a README file and make it PUBLIC
-3. To add a website, go to the REPO settings, go to pages, and click create website
-4. From there, you can add links to other repos on your github, making it a easy place to keep all your project and an easy view for friends and employers
+2. Create a Repository; Make it public; Add a README file; Use the name format USERNAME.github.io
+3. Once that is done, you can edit the page multiple ways; HTML, Markdown, or even github templates.
+4. As you make more projects and upload them to github, you can add them to your website!
 
+Enjoy!
 
 
